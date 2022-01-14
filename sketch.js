@@ -21,8 +21,7 @@ const Engine = Matter.Engine;
 	
 	batAnimation = loadAnimation("bat1.png","bat2.png","bat3.png",
 	"bat4.png","bat5.png","bat6.png",
-	"bat7.png","bat8.png","bat9.png",
-	"bat10.png","bat11.png","bat12.png");
+	"bat7.png","bat8.png","bat9.png");
 	
 	}
 	
